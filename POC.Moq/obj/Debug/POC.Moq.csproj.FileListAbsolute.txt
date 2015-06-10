@@ -1,0 +1,7 @@
+C:\Projects\POC.Moq\POC.Moq\obj\Debug\POC.Moq.csprojResolveAssemblyReference.cache
+C:\Projects\POC.Moq\POC.Moq\bin\Debug\POC.Moq.dll
+C:\Projects\POC.Moq\POC.Moq\bin\Debug\POC.Moq.pdb
+C:\Projects\POC.Moq\POC.Moq\bin\Debug\Moq.dll
+C:\Projects\POC.Moq\POC.Moq\bin\Debug\Moq.xml
+C:\Projects\POC.Moq\POC.Moq\obj\Debug\POC.Moq.dll
+C:\Projects\POC.Moq\POC.Moq\obj\Debug\POC.Moq.pdb
